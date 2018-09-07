@@ -1,0 +1,19 @@
+{
+  "name": "sac-fotografia",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioEvando/Sac-Fotografia.git"
+  },
+  "author": "Sergio Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SergioEvando/Sac-Fotografia/issues"
+  },
+  "homepage": "https://github.com/SergioEvando/Sac-Fotografia#readme"
+}
